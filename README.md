@@ -1,4 +1,4 @@
-# Bot Admin Whatsapp ACc UCP 
+# Bot Admin Whatsapp Acc UCP 
 ## Fungsi Fungsi 
 
 ```
