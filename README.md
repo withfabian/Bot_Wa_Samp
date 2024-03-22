@@ -6,7 +6,7 @@
 2. Hapus UCP
 ```
 
-### Dikhususkan Untuk Admin Di Group Whatsapp Untuk Acc UCP
+### Dikhususkan Untuk Admin Di Grup Whatsapp Untuk Acc UCP
 Only Gta SAMP BASIC LRP
 
 
